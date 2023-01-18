@@ -8,15 +8,10 @@
     "template"
   ],
   "author": "Chiara Marcial Martínez <contact@cofuente.io> (https://cofuente.io)",
-  "description": "The base template for Quick App",
+  "description": "The base template for Quick App, a simple boilerplate to build front end apps.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cofuente/cra-template-quick-app.git",
-    "directory": "packages/cra-template"
-  },
-  "license": "MIT",
-  "engines": {
-    "node": ">=14"
+    "url": "https://github.com/cofuente/cra-template-quick-app.git"
   },
   "bugs": {
     "url": "https://github.com/cofuente/cra-template-quick-app/issues"

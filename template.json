@@ -3,6 +3,7 @@
     "dependencies": {
     },
     "scripts": {
+      "say-hi": "echo 'hi'"
     },
     "eslintConfig": {
     }
