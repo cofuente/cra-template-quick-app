@@ -1,5 +1,5 @@
 {
-  "name": "quick-app",
+  "name": "quick-setup",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

@@ -1,6 +1,6 @@
-# cra-template-quick-app
+# cra-template-quick-setup
 
-This is the official base template for quick-app.
+This is the official base template for quick-setup.
 
 For more information, please refer to:
 

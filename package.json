@@ -1,20 +1,20 @@
 {
-  "name": "cra-template-quick-app",
+  "name": "cra-template-quick-setup",
   "version": "0.1.0",
   "keywords": [
     "react",
     "create-react-app",
-    "quick-app",
+    "quick-setup",
     "template"
   ],
   "author": "Chiara Marcial Martínez <contact@cofuente.io> (https://cofuente.io)",
-  "description": "The base template for Quick App, a simple boilerplate to build front end apps.",
+  "description": "The base template for Quick Setup, a simple boilerplate to build front end apps.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cofuente/cra-template-quick-app.git"
+    "url": "https://github.com/cofuente/cra-template-quick-setup.git"
   },
   "bugs": {
-    "url": "https://github.com/cofuente/cra-template-quick-app/issues"
+    "url": "https://github.com/cofuente/cra-template-quick-setup/issues"
   },
   "files": [
     "template",

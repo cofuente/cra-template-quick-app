@@ -1,4 +1,4 @@
-# quick-app
+# quick-setup
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and authored by [Chiara Marcial Martínez](https://cofuente.io/).
 
