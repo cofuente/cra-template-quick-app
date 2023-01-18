@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-quick-app",
+  "version": "1.2.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "quick-app",
+    "template"
+  ],
+  "description": "The base template for Quick App",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facebook/create-react-app.git",
+    "directory": "packages/cra-template"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
